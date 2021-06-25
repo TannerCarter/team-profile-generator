@@ -1,0 +1,23 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TannerCarter/team-profile-generator.git"
+  },
+  "author": "Tanner Carter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TannerCarter/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/TannerCarter/team-profile-generator#readme",
+  "devDependencies": {
+    "inquirer": "^8.1.1",
+    "jest": "^27.0.5"
+  }
+}
